@@ -1,2 +1,2 @@
---platform=linux/arm64v8 homebridge/homebridge:latest
+--platform=linux/arm64 homebridge/homebridge:latest
 --platform=linux/arm64 adguard/adguardhome:latest
