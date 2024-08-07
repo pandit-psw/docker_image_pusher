@@ -1,2 +1,3 @@
 --platform=linux/arm64 homebridge/homebridge:latest
 --platform=linux/arm64 adguard/adguardhome:latest
+--platform=linux/arm64 enwaiax/x-ui:latest
