@@ -5,3 +5,4 @@
 --platform=linux/arm64 cloudflare/cloudflared:latest
 --platform=linux/arm64 zerotier/zerotier:latest
 --platform=linux/arm64 tailscale/tailscale:latest
+
