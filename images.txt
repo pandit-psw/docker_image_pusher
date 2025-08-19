@@ -1,7 +1,4 @@
---platform=linux/arm64 homebridge/homebridge:latest
---platform=linux/arm64 adguard/adguardhome:latest
---platform=linux/arm64 enwaiax/x-ui:latest
 --platform=linux/arm64 jeessy/ddns-go:latest
 --platform=linux/arm64 cloudflare/cloudflared:latest
 --platform=linux/arm64 tailscale/tailscale:latest
---platform=linux/arm64 lscr.io/linuxserver/librespeed:latest
+--platform=linux/arm64 alireza7/s-ui:latest
